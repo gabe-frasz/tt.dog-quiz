@@ -1,0 +1,21 @@
+// AI: generated these phrases
+export const PROVOCATIVE_PHRASES = [
+  "Você realmente conhece o melhor amigo do homem?",
+  "Essa raça é um clássico. Sabe qual é?",
+  "Não se deixe enganar pelos olhos pidões...",
+  "Um expert identificaria este cão em segundos.",
+  "Elegância em quatro patas. Qual o nome?",
+  "Seria este o cão mais inteligente do mundo?",
+  "Dica: a personalidade dele é única.",
+  "Apenas um verdadeiro 'dog lover' acerta essa.",
+  "Um ícone de elegância. Sabe de quem estamos falando?",
+  "Sua postura diz tudo. Qual é o veredito?",
+  "Um olhar que esconde séculos de história.",
+  "Pequeno no tamanho, gigante na personalidade.",
+  "Consegue identificar a linhagem por trás deste pelo?",
+  "Este porte atlético pertence a qual raça?",
+  "Um clássico que nunca sai de moda. Nomeie-o.",
+  "Sua silhueta é inconfundível. Ou será que não?",
+  "Inteligência pura em forma de cão. Qual é?",
+  "O herói de muitas histórias. Você o reconhece?",
+];

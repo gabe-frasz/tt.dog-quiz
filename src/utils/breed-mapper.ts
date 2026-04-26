@@ -1,0 +1,23 @@
+// AI: chose and translated these breeds to pt-BR
+export const breedMapper: Record<string, string> = {
+  akita: "Akita",
+  beagle: "Beagle",
+  boxer: "Boxer",
+  chihuahua: "Chihuahua",
+  chow: "Chow Chow",
+  dachshund: "Dachshund (Salsicha)",
+  dalmatian: "Dálmata",
+  doberman: "Doberman",
+  husky: "Husky Siberiano",
+  labrador: "Labrador",
+  maltese: "Maltês",
+  pitbull: "Pitbull",
+  pomeranian: "Lulu da Pomerânia",
+  pug: "Pug",
+  rottweiler: "Rottweiler",
+  samoyed: "Samoieda",
+  shiba: "Shiba Inu",
+  shihtzu: "Shih Tzu",
+  stbernard: "São Bernardo",
+  weimaraner: "Weimaraner",
+};
